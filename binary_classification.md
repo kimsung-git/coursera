@@ -10,6 +10,11 @@ ${x} \in R^{n_{x}}$ where ${x}$ is in $n_{x}$ feature dimension
 ${y \in (0,1)}$
 
 
+\begin{equation}
+{x}
+${x}$
+\end{equation}
+
 
 
 ${m}$ training example
