@@ -4,7 +4,7 @@
 
 Single training example 
     
-$$({x}, {y})$$
+$`({x}, {y})`$
 
 ${x} \in R^{n_{x}}$ where ${x}$ is in $n_{x}$ feature dimension
 ${y \in (0,1)}$
